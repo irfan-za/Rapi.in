@@ -1,5 +1,5 @@
-# File_organizer
-File Organizer moves files to the appropriate destination directories based on their file extensions. It makes it easy for you to clean up and organize files in your folders.
+# Rapi.in
+Rapi.in is a file organizer program, moves files to the appropriate destination directories based on their file extensions. It makes it easy for you to clean up and organize files in your folders.
 
 ## How to Use
 
